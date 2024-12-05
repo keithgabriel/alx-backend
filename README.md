@@ -45,4 +45,4 @@ $ kill [PID_OF_Redis_Server]
 Copy the `dump.rdb` from the `redis-5.0.7` directory into the root of the Queuing project.
 
 **Requirements:**
-- Running `get Holberton` in the client, should return `School`
+1.- Running `get Holberton` in the client, should return `School`
